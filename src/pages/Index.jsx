@@ -34,7 +34,7 @@ const Index = () => {
         <Text color={"gray.500"} mb={6}>
           The Rocky Ridge Royal Oak Community Association serving the northwest Calgary communities.
         </Text>
-        <Image src="https://images.unsplash.com/photo-1526863336296-fac32d550655?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxjYWxnYXJ5JTIwcm9ja3klMjByaWRnZSUyMHJveWFsJTIwb2FrJTIwY29tbXVuaXR5fGVufDB8fHx8MTcxMDcwNzc0Mnww&ixlib=rb-4.0.3&q=80&w=1080" alt="Rocky Ridge Royal Oak Community" mb={8} />
+        <Image src="https://cdnarchitect.s3.ca-central-1.amazonaws.com/2018/08/31165336/RR-1M7A4709_Wach.jpg" alt="Rocky Ridge Royal Oak Community" mb={8} />
       </Box>
 
       {/* About Section */}
